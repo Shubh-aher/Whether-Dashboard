@@ -20,6 +20,8 @@ Search functionality to get weather updates by city name.
 
 Real-time temperature, humidity, wind speed, and weather condition display.
 
+![Image](https://github.com/user-attachments/assets/514a85e4-a5f0-481c-af5d-561a3252a2e1)
+
 Dynamic UI updates based on API response.
 
 Clean and user-friendly interface with responsive design for all devices.
